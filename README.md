@@ -88,8 +88,8 @@ My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> 
   <a href="https://www.credly.com/badges/40c11381-3220-4419-a19e-26b95ab4e883">
   <img width="20%" height="20%"  src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
     
-<a href="https://www.credly.com/badges/073e6546-46f9-4100-bbd5-4cf4709">
-    <img width="20%" height="20%"  src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"/>
+  <a href="https://www.credly.com/badges/073e6546-46f9-4100-bbd5-4cf47099e490">
+  <img width="20%" height="20%"  src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"/>
 
   </div>
 
