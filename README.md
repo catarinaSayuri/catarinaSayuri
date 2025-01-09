@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=166&color=d73169&textBg=false&section=header&reversal=true"/>
 
-<h1> ☕ Olá, seja bem-vindo(a) ao meu perfil GitHub</h1>
+<h1> ☕ Olá, seja bem-vindo(a) ao meu perfil GitHub!</h1>
 <div>
 
 Meu nome é <strong>Catarina Sayuri</strong>, tenho <strong>17 anos de idade</strong> e atualmente estou dando inicio ao meu primeiro ano cursando <strong>Engenharia De Softaware</strong> no <strong>Inteli.</strong><br>
