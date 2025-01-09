@@ -73,10 +73,10 @@ My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> 
   
 📌 <strong>Desenvolvimento De Sistemas</strong> - Concluído <strong>Dezembro 2024 ✅<strong><br>
 📌 <strong>Fundamentos em Segurança de Redes de Dados</strong> - Concluído <strong>Julho 2023 ✅</strong><br>
-📌 <strong>PL-900</strong> - Concluído <strong>Setembro 2024 ✅<strong><br>
-📌 <strong>AI-900</strong> - Concluído <strong>Outubro 2024 ✅<strong><br>
-📌 <strong>SC-900</strong> - Concluído <strong>Dezembro 2024 ✅<strong><br>
-
+📌 <strong>PL-900</strong> - Concluído <strong>Setembro 2023 ✅<strong><br>
+📌 <strong>AI-900</strong> - Concluído <strong>Outubro 2023 ✅<strong><br>
+📌 <strong>SC-900</strong> - Concluído <strong>Dezembro 2023 ✅<strong><br>
+📌 <strong>Programação em Java, Oracle</strong> - Concluído <strong>Outubro 2024 ✅<strong><br>
 
 <div style="display: inline_block">
   <h2> Certificações 📑</h2>
