@@ -48,9 +48,9 @@
 <div style="display: inline_block">
  <h2> Formação Acadêmica 🎓 </h2>
  
- 📌 Cursando Técnico em Desenvolvimento de Sistemas - SENAI de Informática "Paulo Skaff" (conclusão em dez/2024)
+ 📌 Técnico em Desenvolvimento de Sistemas - SENAI de Informática "Paulo Skaff" (concluido dez/2024)
   
-📌 Fundamento em Segurança de Redes de Dados (concluido jul/2023)
+📌 Fundamentos em Segurança de Redes de Dados (concluido jul/2023)
 
   <div style="display: inline_block">
   <h2> Certificações 📑</h2>
