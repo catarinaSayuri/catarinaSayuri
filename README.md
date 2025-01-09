@@ -60,15 +60,6 @@ My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> 
 </div>
 
 
-
-<h2>Contatos e Mídias Sociais | Contacts and Social Media 💌</h2> 
-
-<a href = "mailto:contato@catarina.arashiro@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/cat.sayuriz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/Catarina-sayuri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-
-
 <h2>Formação Acadêmica | Education 🎓</h2> 
   
 📌 <strong>Desenvolvimento De Sistemas</strong> - Concluído <strong>Dezembro 2024 ✅<strong><br>
@@ -94,7 +85,11 @@ My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> 
   </div>
 
 
+<h2>Contatos e Mídias Sociais | Contacts and Social Media 💌</h2> 
 
+<a href = "mailto:contato@catarina.arashiro@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/cat.sayuriz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/Catarina-sayuri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 
