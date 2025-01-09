@@ -50,7 +50,7 @@ My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> 
   <img width="12" />
 </div>
 
-<h2>Informações GitHub | GitHub Information ⭐</h2> 
+<h2>Informações GitHub | GitHub Information 🌟</h2> 
   
 </div>
 
