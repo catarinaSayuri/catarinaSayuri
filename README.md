@@ -1,12 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=166&color=d73169&textBg=false&section=header&reversal=true"/>
 
-<h1>Olá, seja bem-vindo(a) ao meu perfil GitHub!</h1>
+<h1>Welcome dev!</h1>
 <div>
 
-Meu nome é <strong>Catarina Sayuri</strong>, tenho <strong>17 anos de idade</strong> e atualmente estou dando inicio ao meu primeiro ano cursando <strong>Engenharia De Softaware</strong> no <strong>Inteli.</strong><br>
-
-
-My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> and I'm currently starting my first year of studying <strong>Software Engineering</strong> at <strong>Inteli.</strong><br>
+My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> and I'm currently starting my first year studying <strong>Software Engineering</strong> at <strong>Inteli.</strong><br>
 
 
 <h2> Skills 🥇 </h2> 
@@ -70,7 +67,7 @@ My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> 
 📌 <strong>Programação em Java, Oracle</strong> - Concluído <strong>Outubro 2024 ✅<strong><br>
 
 <div style="display: inline_block">
-  <h2> Certification 📑</h2>
+  <h2> Certifications 📑</h2>
 
 
   <a href="https://www.credly.com/badges/3c0590e9-d589-4b47-8422-5c18bbcb2a44/public_url">
