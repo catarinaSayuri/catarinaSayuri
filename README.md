@@ -9,7 +9,7 @@ Meu nome é <strong>Catarina Sayuri</strong>, tenho <strong>17 anos de idade</st
 My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> and I'm currently starting my first year of studying <strong>Software Engineering</strong> at <strong>Inteli.</strong><br>
 
 
-<h2>Habilidades | Skills 🥇 </h2> 
+<h2> Skills 🥇 </h2> 
 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -40,7 +40,7 @@ My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> 
   
 </div>
 
-<h2>Estudando | Studying 💻</h2>
+<h2>Studying 💻</h2>
 
 <div>
 
@@ -50,7 +50,7 @@ My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> 
   <img width="12" />
 </div>
 
-<h2>Informações GitHub | GitHub Information 🌟</h2> 
+<h2>GitHub Information 🌟</h2> 
   
 </div>
 
@@ -60,7 +60,7 @@ My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> 
 </div>
 
 
-<h2>Formação Acadêmica | Education 🎓</h2> 
+<h2>Education 🎓</h2> 
   
 📌 <strong>Desenvolvimento De Sistemas</strong> - <strong>ConcluídoDezembro 2024 ✅<strong><br>
 📌 <strong>Fundamentos em Segurança de Redes de Dados</strong> - Concluído <strong>Julho 2023 ✅</strong><br>
@@ -70,7 +70,7 @@ My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> 
 📌 <strong>Programação em Java, Oracle</strong> - Concluído <strong>Outubro 2024 ✅<strong><br>
 
 <div style="display: inline_block">
-  <h2> Certificações 📑</h2>
+  <h2> Certification 📑</h2>
 
 
   <a href="https://www.credly.com/badges/3c0590e9-d589-4b47-8422-5c18bbcb2a44/public_url">
