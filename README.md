@@ -59,7 +59,7 @@ My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> 
 
 <h2>Education 🎓</h2> 
   
-📌 <strong>Desenvolvimento De Sistemas</strong> - <strong>ConcluídoDezembro 2024 ✅<strong><br>
+📌 <strong>Técnico Desenvolvimento De Sistemas</strong> - <strong>Concluído Dezembro 2024 ✅<strong><br>
 📌 <strong>Fundamentos em Segurança de Redes de Dados</strong> - Concluído <strong>Julho 2023 ✅</strong><br>
 📌 <strong>PL-900</strong> - Concluído <strong>Setembro 2023 ✅<strong><br>
 📌 <strong>AI-900</strong> - Concluído <strong>Outubro 2023 ✅<strong><br>
