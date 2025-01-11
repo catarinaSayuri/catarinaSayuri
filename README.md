@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=166&color=d73169&textBg=false&section=header&reversal=true"/>
 
-<h1>Welcome dev!</h1>
+<h1>Hello World!</h1>
 <div>
 
-My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> and I'm currently starting my first year studying <strong>Software Engineering</strong> at <strong>Inteli.</strong><br>
+Meu nome é <strong>Catarina Sayuri</strong>, tenho <strong>17 anos de idade,</strong> sou uma desenvolvedora full-stack formada em Desenvolvimento de Sistemas e atualmente estou iniciando meu primeiro ano cursando o bacharelado em <strong>Engenharia de Softwaee</strong> no <strong>Inteli.</strong><br>
 
 
 <h2> Skills 🥇 </h2> 
@@ -46,7 +46,7 @@ My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> 
   
 </div>
 
-<h2>Studying 💻</h2>
+<h2>Estudando no momento 💻</h2>
 
 <div>
 
@@ -56,7 +56,7 @@ My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> 
   <img width="12" />
 </div>
 
-<h2>GitHub Information 🌟</h2> 
+<h2>Minhas informações no GitHub 🌟</h2> 
   
 </div>
 
@@ -66,15 +66,18 @@ My name is <strong>Catarina Sayuri</strong>, I am <strong>17 years old</strong> 
 </div>
 
 
-<h2>Education 🎓</h2> 
+<h2>Formação acadêmica 🎓</h2> 
 
-📌 <strong>Bacharelado em Engenharia de Software - Studying (2025-2028) <strong><br>
-📌 <strong>Técnico em Desenvolvimento De Sistemas</strong> - <strong>Completed in December 2024 ✅<strong><br>
-📌 <strong>Fundamentos em Segurança de Redes de Dados</strong> - Completed in <strong>July 2023 ✅</strong><br>
-📌 <strong>PL-900</strong> - Completed in <strong>September 2023 ✅<strong><br>
-📌 <strong>AI-900</strong> - Completed in <strong>October 2023 ✅<strong><br>
-📌 <strong>SC-900</strong> - Completed in <strong>December 2023 ✅<strong><br>
-📌 <strong>Programação em Java, Oracle</strong> - Completed in <strong>October 2024 ✅<strong><br>
+📌 <strong>Bacharelado em Engenharia de Software - cursando (jan 2025- dez 2028) <strong><br>
+📌 <strong>Técnico em Desenvolvimento De Sistemas - concluído (jan 2023 - dez 2024)✅<strong><br> <br>
+
+<h2>Cursos complementares📓</h2> 
+
+📌 <strong>Fundamentos em Segurança de Redes de Dados - concluído (abr 2023 - jul 2024) ✅</strong><br>
+📌 <strong>PL-900, Microsoft - concluído (ago 2023 - set 2023) ✅<strong><br>
+📌 <strong>AI-900, Microsoft - concluído (set 2023 - out 2023) ✅<strong><br>
+📌 <strong>SC-900, Microsoft - concluído (nov 2023 - dez 2023) ✅<strong><br>
+📌 <strong>Programação em Java, Oracle - (ago 2023 - out 2024) ✅<strong><br> <br>
 
 <div style="display: inline_block">
   <h2> Certifications 📑</h2>
