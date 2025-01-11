@@ -3,7 +3,22 @@
 <h1>Hello World!</h1>
 <div>
 
-Meu nome é <strong>Catarina Sayuri</strong>, tenho <strong>17 anos de idade,</strong> sou uma desenvolvedora full-stack formada em Desenvolvimento de Sistemas e atualmente estou iniciando meu primeiro ano cursando o bacharelado em <strong>Engenharia de Softwaee</strong> no <strong>Inteli.</strong><br>
+Meu nome é <strong>Catarina Sayuri</strong>, tenho <strong>17 anos de idade,</strong> sou uma desenvolvedora full-stack formada em Desenvolvimento de Sistemas e atualmente estou iniciando meu primeiro ano cursando o bacharelado em <strong>Engenharia de Software</strong> no <strong>Inteli.</strong><br>
+
+
+<h2> Meu buddy 🥇 </h2> 
+
+<p align="justify">
+Meu buddy é o Gustavo Gonçalves, estudante do segundo ano de Engenharia da Computação. Ele está me guiando e orientando na minha trajetória inicial dentro do Inteli.
+</p>
+
+Acesse o perfil dele:
+
+  <a href="https://github.com/Gustavo-daCosta" target="_blank">
+		<img src="gitHubIcon.png" width="52" height="52" alt="github logo" />
+	</a>
+</a>
+
 
 
 <h2> Skills 🥇 </h2> 
