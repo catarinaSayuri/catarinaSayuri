@@ -5,22 +5,6 @@
 
 Meu nome é <strong>Catarina Sayuri</strong>, tenho <strong>17 anos de idade,</strong> sou uma desenvolvedora full-stack formada em Desenvolvimento de Sistemas e atualmente estou iniciando meu primeiro ano cursando o bacharelado em <strong>Engenharia de Software</strong> no <strong>Inteli.</strong><br>
 
-
-<h2> Meu buddy </h2> 
-
-<p align="justify">
-Meu buddy é o Gustavo Gonçalves, estudante do segundo ano de Engenharia da Computação. Ele está me guiando e orientando na minha trajetória inicial dentro do Inteli.
-</p>
-
-Acesse o perfil dele:
-
-  <a href="https://github.com/Gustavo-daCosta" target="_blank">
-		<img src="gitHubIcon.png" width="52" height="52" alt="github logo" />
-	</a>
-</a>
-
-
-
 <h2> Skills 🥇 </h2> 
 
 <div>
@@ -106,6 +90,9 @@ Acesse o perfil dele:
     
   <a href="https://www.credly.com/badges/073e6546-46f9-4100-bbd5-4cf47099e490">
   <img width="20%" height="20%"  src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"/>
+
+  <a href="https://www.credly.com/earner/earned/badge/0f8220f1-efb7-455e-a266-a61cea4effae">
+  <img width="20%" height="20%"  src="https://images.credly.com/size/680x680/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png"/>
 
   </div>
 
