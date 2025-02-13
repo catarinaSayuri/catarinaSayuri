@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=166&color=d73169&textBg=false&section=header&reversal=true"/>
-
 <h1>Hello World!</h1>
 <div>
 
