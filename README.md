@@ -1,7 +1,7 @@
 <h1>Hello World!</h1>
 <div>
 
-Meu nome é <strong>Catarina Sayuri</strong>, tenho <strong>17 anos de idade,</strong> sou uma desenvolvedora full-stack formada em Desenvolvimento de Sistemas e atualmente estou iniciando meu primeiro ano cursando o bacharelado em <strong>Engenharia de Software</strong> no <strong>Inteli.</strong><br>
+Meu nome é <strong>Catarina Sayuri</strong>, tenho <strong>18 anos de idade,</strong> sou uma desenvolvedora full-stack formada em Desenvolvimento de Sistemas e atualmente estou iniciando meu primeiro ano cursando o bacharelado em <strong>Engenharia de Software</strong> no <strong>Inteli.</strong><br>
 
 <h2> Skills 🥇 </h2> 
 
