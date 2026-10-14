@@ -27,12 +27,21 @@ I enjoy working across the stack, from designing user interfaces to developing b
 
 ### Databases & Database Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb,dynamodb,dbeaver" alt="Database technologies and tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" height="45" alt="DynamoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="45" alt="DBeaver" />
 </p>
 
 ### Cloud, DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,azuredevops,git,github,vscode,visualstudio" alt="Cloud and development tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="Microsoft Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="45" alt="Azure DevOps" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="Visual Studio Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt="Visual Studio" />
 </p>
 
 ---
