@@ -25,9 +25,9 @@ I enjoy working across the stack, from designing user interfaces to developing b
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python" alt="Backend technologies" />
 </p>
 
-### Databases
+### Databases & Database Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,mongodb" alt="Database technologies" />
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb,dynamodb,dbeaver" alt="Database technologies and tools" />
 </p>
 
 ### Cloud, DevOps & Tools
